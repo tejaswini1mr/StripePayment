@@ -1,4 +1,4 @@
-# StripePayment
+# StripePayment React.js
 
 # Screenshots
 
